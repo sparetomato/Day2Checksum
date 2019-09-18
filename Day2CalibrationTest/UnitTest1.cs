@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Day2Checksum;
 
 namespace Day2CalibrationTest
 {
@@ -8,6 +9,7 @@ namespace Day2CalibrationTest
         [TestMethod]
         public void TestMethod1()
         {
+            
         }
     }
 }
